@@ -1,0 +1,31 @@
+# ── Secrets — NEVER commit ───────────────────────────────────────────────────
+**/.env
+**/.env.*
+**/.streamlit/secrets.toml
+*.pem
+*.key
+
+# ── Python ───────────────────────────────────────────────────────────────────
+**/__pycache__/
+*.py[cod]
+**/.venv/
+**/venv/
+*.egg-info/
+
+# ── Local-only full requirements (deploy uses the lean requirements.txt) ─────
+requirements-local.txt
+
+# ── Runtime upload staging (transient) ───────────────────────────────────────
+client_build/uploads/
+
+# ── Office temp lock files ───────────────────────────────────────────────────
+~$*
+
+# ── OS / editor noise ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Note: vectorstore/, knowledge_base/, and raw_data/ ARE committed on purpose —
+# the deployed app reads the FAISS index and you may want to re-index/re-preprocess.
