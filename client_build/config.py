@@ -32,7 +32,10 @@ for _fname in [".env", ".env.example"]:
 OPENAI_API_KEY    = os.environ.get("OPENAI_API_KEY", "").strip()
 # Accept either ANTHROPIC_API_KEY or CLAUDE_API_KEY (the SDK's own default is
 # ANTHROPIC_API_KEY; we also honour CLAUDE_API_KEY for convenience).
-ANTHROPIC_API_KEY = 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
+ANTHROPIC_API_KEY = (os.environ.get("ANTHROPIC_API_KEY")
+                     or os.environ.get("CLAUDE_API_KEY", "")).strip()
+TAVILY_API_KEY    = os.environ.get("TAVILY_API_KEY", "").strip()
+
 try:
     import streamlit as st
     OPENAI_API_KEY    = st.secrets.get("OPENAI_API_KEY", OPENAI_API_KEY).strip()
