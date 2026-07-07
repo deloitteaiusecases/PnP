@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 4aa8adcde462407e0d0fb74f7cbe55c570b54a61 fatima <fatima.zafarrr99@gmail.com> 1777103901 +0500	commit (initial): initial clean commit
+4aa8adcde462407e0d0fb74f7cbe55c570b54a61 0000000000000000000000000000000000000000 fatima <fatima.zafarrr99@gmail.com> 1777104000 +0500	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 4aa8adcde462407e0d0fb74f7cbe55c570b54a61 fatima <fatima.zafarrr99@gmail.com> 1777104000 +0500	Branch: renamed refs/heads/master to refs/heads/main
+4aa8adcde462407e0d0fb74f7cbe55c570b54a61 9b3c701fd33c75e10845a0fae3005fd57c3bf3a1 fatima <fatima.zafarrr99@gmail.com> 1777107663 +0500	commit: fix policy retrivel and preserve tables
+9b3c701fd33c75e10845a0fae3005fd57c3bf3a1 3898d6eee0a0ac3aaab70381976db408c15987f0 fatima <fatima.zafarrr99@gmail.com> 1777119491 +0500	commit: fix the intent of generation
+3898d6eee0a0ac3aaab70381976db408c15987f0 1fc5ecce3571317f3282e09b3bb7b48b60976856 fatima <fatima.zafarrr99@gmail.com> 1777120523 +0500	commit: fixing specific extraction
+1fc5ecce3571317f3282e09b3bb7b48b60976856 a810b093697214c212b9fec4b52c78e6f7f54bfa fatima <fatima.zafarrr99@gmail.com> 1777122186 +0500	commit: fix error
+a810b093697214c212b9fec4b52c78e6f7f54bfa 08e079173e03a3982171e1b61799479da1fd5726 fatima <fatima.zafarrr99@gmail.com> 1777124875 +0500	commit: kpis extraction
+08e079173e03a3982171e1b61799479da1fd5726 cd5ed5af9beb1b9ac6b602d40653c1366d9291ba fatima <fatima.zafarrr99@gmail.com> 1777190395 +0500	commit: policy improvement
+cd5ed5af9beb1b9ac6b602d40653c1366d9291ba 1feb3d952a1b8c84e1c277077ae00d180c1fda73 fatima <fatima.zafarrr99@gmail.com> 1777284591 +0500	commit: supabse and policy imporovement integration
+1feb3d952a1b8c84e1c277077ae00d180c1fda73 1cac594d9eefbd529b6de1c496f5c7e23635cf3a fatima <fatima.zafarrr99@gmail.com> 1777288932 +0500	pull --rebase origin main (start): checkout 1cac594d9eefbd529b6de1c496f5c7e23635cf3a
+1cac594d9eefbd529b6de1c496f5c7e23635cf3a 3906fed02b279d188da9107de6d18755bdc18861 fatima <fatima.zafarrr99@gmail.com> 1777288932 +0500	pull --rebase origin main (pick): supabse and policy imporovement integration
+3906fed02b279d188da9107de6d18755bdc18861 3906fed02b279d188da9107de6d18755bdc18861 fatima <fatima.zafarrr99@gmail.com> 1777288932 +0500	pull --rebase origin main (finish): returning to refs/heads/main
+3906fed02b279d188da9107de6d18755bdc18861 b1b5cbf05dc77fb6c7c2bfe3139ff4c60a41299d fatima <fatima.zafarrr99@gmail.com> 1777290474 +0500	commit: fixed the render_upload error from UI
+b1b5cbf05dc77fb6c7c2bfe3139ff4c60a41299d 91ea918b8b1e42acca249c3a9a3b0bbe3115f821 fatima <fatima.zafarrr99@gmail.com> 1777359691 +0500	commit: removed warning of web search from top
+91ea918b8b1e42acca249c3a9a3b0bbe3115f821 4f44d68502b695e7baf60d74e0868c4ed6259e25 fatima <fatima.zafarrr99@gmail.com> 1777359764 +0500	commit (merge): remove warning from websearch
+4f44d68502b695e7baf60d74e0868c4ed6259e25 862bbf5bdfd5a1c8b34579fdee9a89c1d220f726 fatima <fatima.zafarrr99@gmail.com> 1777373715 +0500	commit: changes in table

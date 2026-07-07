@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where python *)",
+      "Read(//c/Users/YA-IT/AppData/Local/Python/**)",
+      "Bash(py -0p)",
+      "Read(//c/Users/YA-IT/AppData/Local/Programs/**)",
+      "Bash(C:/Users/YA-IT/AppData/Local/Python/bin/python.exe *)"
+    ]
+  }
+}
