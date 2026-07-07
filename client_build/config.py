@@ -32,7 +32,7 @@ for _fname in [".env", ".env.example"]:
 OPENAI_API_KEY    = os.environ.get("OPENAI_API_KEY", "").strip()
 # Accept either ANTHROPIC_API_KEY or CLAUDE_API_KEY (the SDK's own default is
 # ANTHROPIC_API_KEY; we also honour CLAUDE_API_KEY for convenience).
-ANTHROPIC_API_KEY = (os.environ.get("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")
+ANTHROPIC_API_KEY = "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"
                      or os.environ.get("CLAUDE_API_KEY", "")).strip()
 TAVILY_API_KEY    = os.environ.get("TAVILY_API_KEY", "").strip()
 
